@@ -11,3 +11,7 @@ if 5 > 2:
 print("Five is greater than two!")
 
 # this gives a syntax error
+
+# how to declare variables in python
+x = 5
+y = "Hello, World!"
