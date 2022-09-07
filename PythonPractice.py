@@ -26,3 +26,10 @@ x = 5
 y = "John"
 print(type(x))
 print(type(y))
+
+# Single or double quotes to declare
+# String variables can be declared either by using single or double quotes:
+
+x = "John"
+# is the same as
+x = 'John'
