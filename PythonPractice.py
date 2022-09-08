@@ -33,3 +33,8 @@ print(type(y))
 x = "John"
 # is the same as
 x = 'John'
+
+# Variables are case-sensitive
+a = 4
+A = "Sally"
+#A will not overwrite a
