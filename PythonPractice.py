@@ -37,4 +37,10 @@ x = 'John'
 # Variables are case-sensitive
 a = 4
 A = "Sally"
-#A will not overwrite a
+# A will not overwrite a
+
+# Assigning multiple variables at home
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
