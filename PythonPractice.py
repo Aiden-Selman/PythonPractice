@@ -44,3 +44,8 @@ x, y, z = "Orange", "Banana", "Cherry"
 print(x)
 print(y)
 print(z)
+
+# Output Variables
+# The Python print() function is often used to output variables.
+x = "Python is awesome"
+print(x)
