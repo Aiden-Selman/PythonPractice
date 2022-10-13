@@ -49,3 +49,13 @@ print(z)
 # The Python print() function is often used to output variables.
 x = "Python is awesome"
 print(x)
+
+# Global Variables
+# Variables that are created outside of a function (as in all of the examples above) are known as global variables.
+# Global variables can be used by everyone, both inside of functions and outside.
+x = "awesome"
+
+def myfunc():
+  print("Python is " + x)
+
+myfunc()
